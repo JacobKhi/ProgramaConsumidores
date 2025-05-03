@@ -6,22 +6,22 @@ Este projeto em Java implementa um sistema para manipulação e ordenação de d
 
 Leitura e escrita de consumidores a partir de arquivos CSV
 
-- 'Implementação de diferentes estruturas para armazenar consumidores (Lista e Vetor)'
+- Implementação de diferentes estruturas para armazenar consumidores (Lista e Vetor)
 
-- 'Aplicação de algoritmos de ordenação (Bubble Sort e Quick Sort)'
+- Aplicação de algoritmos de ordenação (Bubble Sort e Quick Sort)
 
-- 'Ordenação de consumidores por ano de nascimento e escolaridade'
+- Ordenação de consumidores por ano de nascimento e escolaridade
 
-- 'Interface gráfica ou textual para listar e manipular os dados'
+- Interface gráfica ou textual para listar e manipular os dados
 
 ## Arquitetura
 
-- 'Interfaces definem contratos para ordenação (Ordenador) e manipulação de coleções de consumidores (ColecaoDeConsumidores).'
+- Interfaces definem contratos para ordenação (Ordenador) e manipulação de coleções de consumidores (ColecaoDeConsumidores).
 
-- 'Classes concretas implementam essas interfaces com diferentes estruturas (vetores e listas).'
+- Classes concretas implementam essas interfaces com diferentes estruturas (vetores e listas).
 
-- 'Ordenadores específicos aplicam algoritmos de ordenação sob diferentes critérios.'
+- Ordenadores específicos aplicam algoritmos de ordenação sob diferentes critérios.
 
-- 'ManipularDataset cuida da leitura/escrita de arquivos CSV.'
+- ManipularDataset cuida da leitura/escrita de arquivos CSV.
 
-- 'ProgramaConsumidores e App são pontos de entrada e execução das funcionalidades.'
+- ProgramaConsumidores e App são pontos de entrada e execução das funcionalidades.
