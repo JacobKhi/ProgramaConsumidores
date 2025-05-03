@@ -37,3 +37,7 @@ Este projeto em Java implementa um sistema para manipulação e ordenação de d
 - Manipulação de arquivos CSV
 
 - Programação orientada a objetos (POO)
+  
+## Diagrama de classe usado de base 
+
+![Image](https://github.com/user-attachments/assets/9cce183c-424c-412e-928f-e4b2ffa63b2e)
