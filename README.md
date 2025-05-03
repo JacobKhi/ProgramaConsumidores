@@ -1,6 +1,6 @@
 ## Projeto de Manipulação e Ordenação de Consumidores em Java
 
-Este projeto em Java implementa um sistema para manipulação e ordenação de dados de consumidores a partir de arquivos CSV. O foco está na aplicação de conceitos de orientação a objetos, como interfaces, herança, agregação etc.
+Este projeto em Java implementa um sistema para manipulação e ordenação de dados de consumidores a partir de arquivos CSV.
 
 ## Funcionalidades
 
@@ -25,3 +25,15 @@ Este projeto em Java implementa um sistema para manipulação e ordenação de d
 - ManipularDataset cuida da leitura/escrita de arquivos CSV.
 
 - ProgramaConsumidores e App são pontos de entrada e execução das funcionalidades.
+
+## Conceitos utilizados
+
+- Interfaces e polimorfismo
+
+- Estruturas de dados (vetores, listas)
+
+- Algoritmos de ordenação (Bubble Sort, Quick Sort)
+
+- Manipulação de arquivos CSV
+
+- Programação orientada a objetos (POO)
