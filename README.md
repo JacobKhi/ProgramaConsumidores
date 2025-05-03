@@ -4,7 +4,7 @@ Este projeto em Java implementa um sistema para manipulação e ordenação de d
 
 ## Funcionalidades
 
-Leitura e escrita de consumidores a partir de arquivos CSV
+- Leitura e escrita de consumidores a partir de arquivos CSV
 
 - Implementação de diferentes estruturas para armazenar consumidores (Lista e Vetor)
 
