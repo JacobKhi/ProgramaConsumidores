@@ -1,18 +1,27 @@
-## Getting Started
+## Projeto de Manipulação e Ordenação de Consumidores em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto em Java implementa um sistema para manipulação e ordenação de dados de consumidores a partir de arquivos CSV. O foco está na aplicação de conceitos de orientação a objetos, como interfaces, herança, agregação etc.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+Leitura e escrita de consumidores a partir de arquivos CSV
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- 'Implementação de diferentes estruturas para armazenar consumidores (Lista e Vetor)'
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- 'Aplicação de algoritmos de ordenação (Bubble Sort e Quick Sort)'
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- 'Ordenação de consumidores por ano de nascimento e escolaridade'
 
-## Dependency Management
+- 'Interface gráfica ou textual para listar e manipular os dados'
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Arquitetura
+
+- 'Interfaces definem contratos para ordenação (Ordenador) e manipulação de coleções de consumidores (ColecaoDeConsumidores).'
+
+- 'Classes concretas implementam essas interfaces com diferentes estruturas (vetores e listas).'
+
+- 'Ordenadores específicos aplicam algoritmos de ordenação sob diferentes critérios.'
+
+- 'ManipularDataset cuida da leitura/escrita de arquivos CSV.'
+
+- 'ProgramaConsumidores e App são pontos de entrada e execução das funcionalidades.'
